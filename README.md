@@ -12,3 +12,4 @@ I build and test small web tools, automation workflows, and agent-native operati
 
 - [PokéBonk Wiki (BonkDex)](https://pokebonk.info/) - my fan wiki for the free PokéBonk browser survivor game: play in the browser, a 151-entry Pokédex, guides, a tier list maker and a type chart. Unofficial fan project, not affiliated with Nintendo or the game's creator.
 - [Daily Red](https://daily-red.app/) - a daily Pokémon team-building challenge against one fixed opponent.
+- [Plain Game](https://plaingame.fun/) - a free daily estimation game: seven guesses to name something close to a target number or estimate a fact. Independent edition, not affiliated with the original Plain.
