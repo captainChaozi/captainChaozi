@@ -11,6 +11,7 @@ I build and test small web tools, automation workflows, and agent-native operati
 - [SceneWish](https://scenewish.com/) - AI video effect templates plus image-to-video and text-to-video; the credit cost is shown before you generate.
 - [Tip Toeing in My Jordans AI](https://tiptoeinginmyjordans.app/) - make the tiptoe-and-shush meme from one adult photo (or two, with a consenting friend as the onlooker); 12-second 720p MP4, no prompt needed.
 - [Burning Bridges AI](https://burningbridges.dev/) - place one permitted portrait into an original chandelier banquet scene for a 10-second 720p clip; uploads stay private to your account.
+- [Dessa AI Guide](https://dessaai.org/) - an independent guide to Block's Dessa speech-to-speech research model: what it does, how it works, and where to try it (not affiliated with Block).
 
 ## Games I build
 
